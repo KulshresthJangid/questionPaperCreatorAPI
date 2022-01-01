@@ -1,0 +1,214 @@
+[
+  {
+    "question": "What is the speed of light",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": "5"
+  },
+  {
+    "question": "Svedberg Unit is a unit of",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": "5"
+  },
+  {
+    "question": "If the frequency of a sound wave is reduced to half of its original value, then the speed of sound wave will:",
+    "subject": "Physics",
+    "topic": "Sound",
+    "difficulty": "Easy",
+    "marks": "5"
+  },
+  {
+    "question": "Who was the first scientist to discover Electrons?",
+    "subject": "Physics",
+    "topic": "Basic",
+    "difficulty": "Easy",
+    "marks": "5"
+  },
+  {
+    "question": "Nuclear sizes are expressed in a unit named",
+    "subject": "Physics",
+    "topic": "Basic",
+    "difficulty": "Easy",
+    "marks": "5"
+  },
+  {
+    "question": "The speed of light will be minimum while passing through",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Easy",
+    "marks": "5"
+  },
+  {
+    "question": "The most suitable unit for expressing nuclear radius is",
+    "subject": "Physics",
+    "topic": "Basic",
+    "difficulty": "Easy",
+    "marks": "5"
+  },
+  {
+    "question": "The speed of light will be minimum while passing through",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Easy",
+    "marks": "5"
+  },
+  {
+    "question": "It is more difficult to walk on ice than on a concrete road because ",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Easy",
+    "marks": "5"
+  },
+  {
+    "question": "Rain drops acquire spherical shape due to ",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Easy",
+    "marks": "5"
+  },
+
+  {
+    "question": "A cardboard is placed on a glass of water, and a ten paise coin is placed on the cardboard. If the cardboard is flicked suddenly in the direction parallel to its surface, then the cardboard flies away, but the coin falls in the glass. The behaviour of the coin can be explained by which among the following properties?",
+    "subject": "Physics",
+    "topic": "Gravity",
+    "difficulty": "Medium",
+    "marks": "10"
+  },
+  {
+    "question": "What is the time taken by the earth to complete one rotation about its axis with regard to a fixed star?",
+    "subject": "Physics",
+    "topic": "Partical Theory",
+    "difficulty": "Medium",
+    "marks": "10"
+  },
+  {
+    "question": "Which of these is the force required to move a body uniformly in a circle?",
+    "subject": "Physics",
+    "topic": "Gravity",
+    "difficulty": "Medium",
+    "marks": "10"
+  },
+  {
+    "question": "Work done will NOT be zero in which of the following case/cases?",
+    "subject": "Physics",
+    "topic": "Gravity",
+    "difficulty": "Medium",
+    "marks": "10"
+  },
+  {
+    "question": "Water does not fall out of a glass when it is inverted inside a satellite, which is orbiting very close to the earth surface. Which of the following is the best reason for this?",
+    "subject": "Physics",
+    "topic": "Force",
+    "difficulty": "Medium",
+    "marks": "10"
+  },
+  {
+    "question": "The focal length of a lens is 50 centimetre. Its power is:",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Medium",
+    "marks": "10"
+  },
+  {
+    "question": "Air pressure is usually highest when the air is ",
+    "subject": "Physics",
+    "topic": "Basic",
+    "difficulty": "Medium",
+    "marks": "10"
+  },
+  {
+    "question": "If a sound travels from air to water, the quantity that remain unchanged is",
+    "subject": "Physics",
+    "topic": "Sound",
+    "difficulty": "Medium",
+    "marks": "10"
+  },
+  {
+    "question": "The basic reason for the extraordinary sparkle of suitably cut diamond is that    ",
+    "subject": "Physics",
+    "topic": "Basic",
+    "difficulty": "Medium",
+    "marks": "10"
+  },
+  {
+    "question": "Optical fiber works on the principle of",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Medium",
+    "marks": "10"
+  },
+
+  {
+    "question": "How does a semiconductor behave at absolute zero temperature?",
+    "subject": "Physics",
+    "topic": "Semiconductor",
+    "difficulty": "Hard",
+    "marks": "15"
+  },
+  {
+    "question": "Which of the following represents the angular momentum of an electron as per Bohrs model (h= Plancks constant)?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": "15"
+  },
+  {
+    "question": "An air bubble in water will act like a",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Hard",
+    "marks": "15"
+  },
+  {
+    "question": "The purpose of choke in tube light is",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Hard",
+    "marks": "15"
+  },
+  {
+    "question": "Two electric bulbs marked 25W , 220V and 100W , 220V are connected in series to a 440Vsupply. Which of the bulbs will fuse?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Hard",
+    "marks": "15"
+  },
+  {
+    "question": "Temperature can be expressed as derived quantity in terms of any of the following",
+    "subject": "Physics",
+    "topic": "Energy",
+    "difficulty": "Hard",
+    "marks": "15"
+  },
+  {
+    "question": "Joule is Equal to",
+    "subject": "Physics",
+    "topic": "Basic",
+    "difficulty": "Hard",
+    "marks": "15"
+  },
+  {
+    "question": "How many millimeters make ten kilometers?",
+    "subject": "Physics",
+    "topic": "Basic",
+    "difficulty": "Hard",
+    "marks": "15"
+  },
+  {
+    "question": "A solid ball of metal has a spherical cavity inside it. When the ball is heated the volume of the cavity will",
+    "subject": "Physics",
+    "topic": "Basic",
+    "difficulty": "Hard",
+    "marks": "15"
+  },
+  {
+    "question": "Brightness of bulb depends on voltage or current?    ",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Hard",
+    "marks": "15"
+  }
+]
